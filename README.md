@@ -7,8 +7,6 @@
 
 - 📊 Exploring Machine Learning.
 
-- 📝 Take a look at my **Personal** Website: [https://jyoti-1233.github.io/](https://jyoti-1233.github.io/)
-
 - 📫 Email me at: **Jyoti.Thakur0720@gmail.com**
 
 
